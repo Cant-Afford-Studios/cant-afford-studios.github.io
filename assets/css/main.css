@@ -4094,3 +4094,8 @@ body {
         url("images/overlay.png");
     /* ...existing code... */
 }
+/* Remove underline from icon links in section four and footer */
+#four a,
+#footer a {
+    border-bottom: none !important;
+}
