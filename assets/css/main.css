@@ -3316,7 +3316,7 @@ input, select, textarea {
 			background: rgba(39, 40, 51, 0.965);
 		box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.25);
 		width: 100%;
-			height: inherit;
+			height: 5.5em;
 
 			line-height: inherit;
 			margin: 0;
